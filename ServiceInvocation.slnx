@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Common/Common.csproj" />
+  <Project Path="ServiceA/ServiceA.csproj" />
+  <Project Path="ServiceB/ServiceB.csproj" />
+  <Project Path="ServiceInvocation.AppHost/ServiceInvocation.AppHost.csproj" />
+  <Project Path="ServiceInvocation.ServiceDefaults/ServiceInvocation.ServiceDefaults.csproj" />
+</Solution>
